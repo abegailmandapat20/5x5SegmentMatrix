@@ -1,0 +1,12 @@
+C:\Users\Bea\source\repos\5x5SevenSegmentMatrix\5x5SevenSegmentMatrix\bin\Debug\5x5SevenSegmentMatrix.exe.config
+C:\Users\Bea\source\repos\5x5SevenSegmentMatrix\5x5SevenSegmentMatrix\bin\Debug\5x5SevenSegmentMatrix.exe
+C:\Users\Bea\source\repos\5x5SevenSegmentMatrix\5x5SevenSegmentMatrix\bin\Debug\5x5SevenSegmentMatrix.pdb
+C:\Users\Bea\source\repos\5x5SevenSegmentMatrix\5x5SevenSegmentMatrix\bin\Debug\5x5SevenSegmentMatrix.xml
+C:\Users\Bea\source\repos\5x5SevenSegmentMatrix\5x5SevenSegmentMatrix\obj\Debug\5x5SevenSegmentMatrix.vbprojResolveAssemblyReference.cache
+C:\Users\Bea\source\repos\5x5SevenSegmentMatrix\5x5SevenSegmentMatrix\obj\Debug\_5x5SevenSegmentMatrix.Form1.resources
+C:\Users\Bea\source\repos\5x5SevenSegmentMatrix\5x5SevenSegmentMatrix\obj\Debug\_5x5SevenSegmentMatrix.Resources.resources
+C:\Users\Bea\source\repos\5x5SevenSegmentMatrix\5x5SevenSegmentMatrix\obj\Debug\5x5SevenSegmentMatrix.vbproj.GenerateResource.Cache
+C:\Users\Bea\source\repos\5x5SevenSegmentMatrix\5x5SevenSegmentMatrix\obj\Debug\5x5SevenSegmentMatrix.vbproj.CoreCompileInputs.cache
+C:\Users\Bea\source\repos\5x5SevenSegmentMatrix\5x5SevenSegmentMatrix\obj\Debug\5x5SevenSegmentMatrix.exe
+C:\Users\Bea\source\repos\5x5SevenSegmentMatrix\5x5SevenSegmentMatrix\obj\Debug\5x5SevenSegmentMatrix.xml
+C:\Users\Bea\source\repos\5x5SevenSegmentMatrix\5x5SevenSegmentMatrix\obj\Debug\5x5SevenSegmentMatrix.pdb
